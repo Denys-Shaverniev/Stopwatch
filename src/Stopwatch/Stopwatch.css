@@ -1,0 +1,48 @@
+body {
+    background-color: #6BBEED;
+    font-family: Arial;
+}
+
+.app {
+    text-align: center;
+    margin: 50px auto;
+    width: 600px;
+    height: 300px;
+    background-color: #F7F7F7;
+    padding: 40px 0;
+    box-sizing: border-box;
+}
+
+.timer {
+    font-size: 50px;
+    color: #002436;
+}
+
+.buttons {
+    margin-top: 40px;
+}
+
+button {
+    width: 120px;
+    padding: 10px 0;
+    text-transform: uppercase;
+    font-weight: 600;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #fff;
+}
+
+#reset {
+    background-color: #D40000;
+}
+
+#wait {
+    background-color: #42B9AE;
+}
+
+#start {
+    background-color: #55A238;
+}
+
+
